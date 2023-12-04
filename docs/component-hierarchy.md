@@ -1,0 +1,61 @@
+-body
+    -div
+        -div
+            -div
+                -div
+                    -div
+                        -div
+                            -img
+                        -div
+                            -div
+                                -table
+                                    -tr
+                                        -label/p
+                                        -input/h3
+                                    -tr
+                                        -label/p
+                                        -input/h3
+                                    -tr
+                                        -label/p
+                                        -input/h3
+                            -div
+                                -table
+                                    -thead
+                                    -tr
+                                        -td
+                                            -h4
+                                            -input/p
+                                        -td
+                                            -h4
+                                            -input/p
+                                        -td
+                                            -h4
+                                            -input/p
+                                    -tr
+                                        -td
+                                            -h4
+                                            -input/p
+                                        -td
+                                            -h4
+                                            -input/p
+                                        -td
+                                            -h4
+                                            -input/p
+                -div
+                    -h2
+                    -textarea/p
+                -div
+                    -button
+                    -button
+
+        -add button
+
+-App
+    -CharactersPage
+        -CharacterSheet
+            -TextRows
+            -StatsRows
+            -Buttons
+
+Unfortunately I was stupid and began css too early, which meant that I
+didn't have enough time to clean up the html structure like I wanted.
